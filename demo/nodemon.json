@@ -1,0 +1,5 @@
+{
+  "ignore": ["public/*"],
+  "watch": ["src/*"],
+  "ext": "ts,tsx,css,less,jsx,js"
+}

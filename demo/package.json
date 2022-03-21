@@ -1,0 +1,16 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js",
+    "dev": "nodemon --exec npm run build",
+    "beautify": "prettier --write src/**/*",
+    "serve": "npx serve public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
