@@ -13,3 +13,8 @@ Use ```build.sh``` to create a project.
 build.sh <dirname> 
 ```
 
+More conveniently, you can set global path for the script.
+```sh
+export PATH=$PATH:/your/path/to/build.sh
+```
+
